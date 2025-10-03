@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: #388e3c;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+}
+
+.logo img {
+    height: 40px;
+}
+
+nav a {
+    color: white;
+    padding: 8px 25px;
+    background-color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.nav-link {
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+
+}
+.hero-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+}
+
+.hero-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #212121;
+}
+
+.hero-description {
+    max-width: 600px;
+    margin: 0 auto 20px;
+    color: #212121;
+}
+
+.hero-image {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.info{
+background-color: #388e3c;
+    color: white;
+    padding: 50px 20px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    div{
+padding-left: 16px;
+}
+h2{  margin-bottom: 20px;}
+}
+
+.ni {
+text-align: center;
+padding: 50px 20px;
+    background-color: #fbf7f7;color: #212121;
+}
+
+.ni h2{
+margin-bottom:30px ;
+}
+
+.ni button{
+padding: 6px 10px;
+background: #C8E6C9;
+border-radius: 5px;
+font-size: 14px;
+line-height: 160.69%;
+text-align: center;
+color: #FFFFFF;
+}
+
